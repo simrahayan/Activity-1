@@ -53,7 +53,7 @@ This dataset showcases **real-world data** and is perfect for practicing:
 
 > *(Replace the image link below with your actual chart image)*
 
-![GDP vs Literacy Rate](https://github.com/yourusername/yourrepo/assets/chart_image.png)  
+![Dashboard](book.png)  
 **Example:** *GDP per Capita vs Literacy Rate by Region*
 
 ---
