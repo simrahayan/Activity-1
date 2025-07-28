@@ -1,7 +1,8 @@
-**🌍 Socio-Economic Indicators – Excel Analysis (Activity 1) Npower Canada**
-Welcome to Activity-1 – a data cleaning and analysis project using Microsoft Excel. In this activity, we explore key socio-economic indicators across 7 countries to highlight trends in education, internet access, and GDP.
+## **🌍 Socio-Economic Indicators – Excel Analysis (Activity 1) Npower Canada**
+### Welcome to Activity-1 – 
+A data cleaning and analysis project using Microsoft Excel. In this activity, we explore key socio-economic indicators across 7 countries to highlight trends in education, internet access, and GDP.
 
-📁** Project Overview**
+📁 ** Project Overview**
 This dataset showcases real-world data and is perfect for practicing data wrangling, pivot table creation, and chart building — all within Excel!
 
 **✨ Columns in the Dataset:**
