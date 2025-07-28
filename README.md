@@ -1,18 +1,54 @@
-# Activity-1
-This dataset provides key socio-economic indicators for seven countries across different regions of the world. It includes:
+**🌍 Socio-Economic Indicators – Excel Analysis (Activity 1) Npower Canada**
+Welcome to Activity-1 – a data cleaning and analysis project using Microsoft Excel. In this activity, we explore key socio-economic indicators across 7 countries to highlight trends in education, internet access, and GDP.
 
-Country Name: The name of the country (e.g., Brazil, Germany, USA).
+📁** Project Overview**
+This dataset showcases real-world data and is perfect for practicing data wrangling, pivot table creation, and chart building — all within Excel!
 
-Region: The continent or major geographical region the country belongs to (e.g., South America, Asia, Europe).
+**✨ Columns in the Dataset:**
+Column Name	Description
+🏳️ Country Name	Name of the country (e.g., Brazil, Germany, USA)
+🌐 Region	Continent or major geographical region
+📚 Literacy Rate (%)	% of population (15+) who can read and write
+🌐 Internet Access (%)	% of population with internet access
+🎓 Avg. Years of Schooling	Average years of formal education (age 25+)
+💵 GDP per Capita (USD)	Average income per person in USD
+👥 Population (Millions)	Country’s population in millions
 
-Literacy Rate (%): The percentage of people aged 15 and above who can read and write.
+**✅ What Was Done**
+Tools Used: Microsoft Excel
+Skills Demonstrated:
 
-Internet Access (%): The percentage of the population with access to the internet.
+✅ Cleaned and formatted raw data (removed blanks, corrected types, standardized formats)
 
-Average Years of Schooling: The average number of years of formal education received by people aged 25 and above.
+✅ Used Pivot Tables to summarize data by Region and Literacy
 
-GDP per Capita (USD): The average income per person in the country, measured in U.S. dollars.
+✅ Built Pivot Charts to visualize relationships (e.g., Literacy vs GDP, Internet vs Schooling)
 
-Population (Millions): The total population of the country in millions.
+✅ Applied Conditional Formatting to highlight high/low performers
 
-On whole, this dataset highlights the socio-economic disparities across regions and underscores the importance of education and digital access in driving economic growth. Countries with higher literacy, better internet access, and more years of schooling tend to have higher GDP per capita. Such data is valuable for policymakers and researchers aiming to improve development strategies, bridge educational gaps, and promote inclusive digital access worldwide.
+📊 Key Insights
+📚 Countries with higher education levels (literacy + schooling) showed higher GDP per capita
+
+🌐 Strong correlation between internet access and economic performance
+
+🌍 Regional disparities are visible, indicating digital and educational divides
+
+🖼️ Excel Visuals Snapshot
+(Replace the image link below with a working one from your GitHub repo or upload directly)
+
+
+
+Example chart: GDP per Capita vs Literacy Rate by Region
+
+📌 Learning Outcomes
+This project is great for beginners to practice:
+
+📑 Cleaning messy data in Excel
+
+📈 Building dynamic pivot tables and charts
+
+🧠 Gaining real-world insights from socio-economic data
+
+
+
+
