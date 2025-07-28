@@ -11,7 +11,7 @@ This dataset showcases **real-world data** and is perfect for practicing:
 
 - 🧹 Data wrangling  
 - 📊 Pivot table creation  
-- 📈 Chart building — all within Excel!
+- 📈 Chart building — Done using excel
 
 ---
 
@@ -51,25 +51,10 @@ This dataset showcases **real-world data** and is perfect for practicing:
 
 ## 🖼️ **Excel Visuals Snapshot**
 
-> *(Replace the image link below with your actual chart image)*
-
 ![Dashboard](book.png)  
-**Example:** *GDP per Capita vs Literacy Rate by Region*
 
 ---
-
-## 📌 **Learning Outcomes**
-
-This project is ideal for beginners who want to learn:
-
-- 📑 How to clean messy datasets in Excel  
-- 📈 How to build **dynamic pivot tables and charts**  
-- 🧠 How to extract **real-world insights** from socio-economic data
-
----
-
-## 💬 **Author**
-
+This mini project is a part of my learning path at Npower Canada.
 Made with 💚 by **Simrah Ayan Fathima**  
 📧 simrahayan2611@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/simrah-ayan)
